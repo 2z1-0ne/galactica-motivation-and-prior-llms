@@ -23,7 +23,9 @@ Scientific large language models aim to address this problem by learning from la
 - Review of prior large language models
   - GPT-3
   - Gopher
+    (./Gopher.png)
   - Chinchilla
+    (./Chinchilla.png)
   - OPT
   - PaLM
 - Key technical ideas in LLM development
