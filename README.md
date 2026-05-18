@@ -43,7 +43,7 @@ In particular, Galactica shows how language models can be extended from general 
 
 ## File
 
-- `seminar_motivationForGlatica.pdf`  
+- [Presentation PDF](./seminar_motivationForGlatica.pdf)
   Presentation slides on the motivation behind scientific LLMs and prior LLM research.
 
 ## Keywords
